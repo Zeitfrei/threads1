@@ -1,1 +1,0 @@
-Small project for trying out threads in Java.
