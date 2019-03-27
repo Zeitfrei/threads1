@@ -1,10 +1,6 @@
 ## On delivery day, prior to arrival:
-1.  Führerschein und Perso
-2.  Zulassungsbescheinigung I+II
-3.  Kennzeichen
-4.  Bring written or digital proof of your down payment having been made and the final payment details or financing details.
-5.  Bring a printed insurance card or other proof of insurance that shows your Model 3 is insured.
-6.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
+1.  Führerschein und Perso, EVB, Zulassungsbescheinigung I+II, Kennzeichen, Quittung
+2.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
 
 ### SECTION A - Verify pre-delivery vehicle records
 1.  Confirm vehicle's VIN matches your paperwork.
@@ -29,7 +25,6 @@
 2.  e-Call Fehler
 3.  Watch for any error messages on the display screen.
 4.  Touch the Tesla T at the top of the screen to bring up the "About Your Tesla" window. Tap the unicorn drawing to access the Sketch Pad. Leave the Sketch Pad up for a minute to make sure there are no phantom touches happening on the display.
-5.  Test driver & passenger door emergency release.
 6.  Check all 4 windows to ensure they open and close properly.
 7.  Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk, and trunk).
 8.  Check left & right clothing hook operation.
@@ -47,11 +42,9 @@
 1.  Check charge port door for proper operation.
 2.  Check charge port indicator light.
 3.  Ensure vehicle will accept a charge.
-4.  UMC
-5.  Typ2 Kabel
+4.  UMC + Typ2
 	
 ### SECTION G - Inspect pairing connectivity
 1.  Test both key cards to ensure they work with your car. Keep one key card on your person in case the phone app does not operate properly.
 2.  Attempt to pair your smartphone to your car over Bluetooth.
-3. Probleme aufschreiben lassen
-4. Wohin wenden bei Problemen?
+3. Probleme aufschreiben lassen + Ansprechpartner erfragen
